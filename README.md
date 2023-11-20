@@ -10,4 +10,4 @@ Your task is to classify a patient's outcome in relation to the hospital, or to 
 
 Data available at: https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
 
-The proposed solution is a basic solution to the problem, so the results obtained do not present significant evaluation metrics. However, it turns out to be a basis for anyone who wants to continue with the solution of the challenge.
+The proposed solution is a basic solution to the problem, so the results obtained do not present significant evaluation metrics. However, it turns out to be a basis for anyone who wants to continue with the solution of the challenge. Some of my recommendations are described at the end of the uploaded Jupyter Notebook file.
